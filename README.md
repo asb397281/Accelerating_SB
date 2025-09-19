@@ -1,4 +1,4 @@
-# asb – Deep Learning Training & Fine‑Tuning
+# Accelerating Deep Network Training by Alternating Stochastic Backpropagation
 
 A clean, reproducible PyTorch project for training, evaluating, fine‑tuning, and (optionally) quantizing image‑classification models on common benchmarks (e.g., CIFAR‑10/100, ImageNet). The repo includes reference training scripts, model definitions, and a quickstart workflow that runs out of the box.
 
